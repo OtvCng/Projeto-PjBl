@@ -35,7 +35,7 @@
     <input type="radio" value="None" id="female" name="gender" />
     <label for="female" class="radio">Fem</label>
    </div> 
-   <a href="login.php" class="button">Cadastrar</a>
+   <input type="submit" value="Cadastrar" class='button'>
   </form>
 </div>
   

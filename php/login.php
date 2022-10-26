@@ -49,7 +49,7 @@
 
     </form>
 
-    <p class="text--center">Não possui conta ?  <a href="#">Cadastre-se agora</a onclick='btnCadastrar()'> <svg class="icon">
+    <p class="text--center">Não possui conta ?  <a href="cadastro.php">Cadastre-se agora</a> <svg class="icon">
         <use xlink:href="#icon-arrow-right"></use>
       </svg></p>
 
